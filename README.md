@@ -29,4 +29,5 @@ Data on COVID-19 (coronavirus) by Our World in Data
 
 https://github.com/owid/covid-19-data/blob/master/public/data/owid-covid-data.csv 
 
- 
+Daily Temperature of Major Cities
+https://www.kaggle.com/sudalairajkumar/daily-temperature-of-major-cities
